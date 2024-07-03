@@ -4,7 +4,7 @@
     "slug": "cups",
     "description": "A CUPS print server with Avahi installed",
     "url": "https://github.com/mirdhyn/addon-repository",
-    "init": "false"
+    "init": "false",
     "arch": [
         "armhf",
         "armv7",
